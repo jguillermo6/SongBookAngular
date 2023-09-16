@@ -25,3 +25,31 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Manco
+    - Components
+        - List
+            presentar una lista de tipo list-item
+        - list-item: la información básica de una canción (encabezado)
+            - la tonalidad
+            - Nombre
+            - Autor: opcional  
+
+## Migue
+    - Servicios
+        - Song:
+            - Nombre
+            - Tonalidad
+            - Autor
+            - Contenido (la canción en si misma)
+            - Modular()
+
+        - Modulador
+            - Una lista con todas las notas naturales
+            - ModularCanción
+
+## Guille
+    - Mirarlos
+
+
